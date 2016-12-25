@@ -1,0 +1,18 @@
+This is a submission for lab 2 of DOS. 
+
+main.c has all the testing code. But it is commented.
+
+In order to test: 
+
+1)sendMsg and receiveMsg : uncomment chk_sendMsg(); and chk_receiveMsg();
+
+2)sendMsgs uncomment : chk_sendMsgs(); and comment rest of the function calls from producer and consumers.
+
+3)sendnMsgs uncomment :chk_sendnMsg(); and comment rest of the function calls from producer and consumers.
+
+4)receiveMsgs uncomment:  chk_sendMsg();  and chk_receiveMsgs(); and comment rest of the function calls from producer and consumer. 
+
+
+Rishabh Pandita
+
+
